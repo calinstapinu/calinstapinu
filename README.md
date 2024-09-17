@@ -7,15 +7,15 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/calinpauliuc/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/h5u6PAT.png"/></a>
+  <a href="https://www.linkedin.com/in/calinpauliuc/"><img width="32px" alt="LinkedIn Profile" title="LinkedIn Profile" src="https://i.imgur.com/h5u6PAT.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/obsessionofwinter/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/sKLP6ug.png"/></a>
+  <a href="https://www.instagram.com/obsessionofwinter/"><img width="32px" alt="Instagram Page" title="Instagram Page" src="https://i.imgur.com/sKLP6ug.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.behance.net/calingeorge1"><img width="32px" alt="Portofolio" title="Portofolio" src="https://i.imgur.com/niXrJr1.png"/></a>
+  <a href="https://www.behance.net/calingeorge1"><img width="32px" alt="My Portofolio" title="My Portofolio" src="https://i.imgur.com/niXrJr1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/grizzlyvisuals"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/FOiLwXD.png"/></a>
+  <a href="https://www.facebook.com/grizzlyvisuals"><img width="32px" alt="Facebook Page" title="Facebook Page" src="https://i.imgur.com/FOiLwXD.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/caling30" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/uk9HFs2.png"/></a>
+  <a href="https://discord.gg/caling30" alt="Discord" title="Personal Discord"><img width="32px" src="https://i.imgur.com/uk9HFs2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
